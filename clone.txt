@@ -1,1 +1,2 @@
 “Welcome to Git and DevOps training”
+I am working on git examples and new projects
