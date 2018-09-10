@@ -1,2 +1,3 @@
-clone.txt
-testignore.txt
+*.iml
+*.idea
+target
